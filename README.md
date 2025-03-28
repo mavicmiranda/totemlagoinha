@@ -55,5 +55,5 @@ Caso queira contribuir, siga os passos:
 4. Envie para o repositório remoto (`git push origin minha-feature`)
 5. Abra um Pull Request
 
-**Desenvolvido por Maria Victória Miranda** 🚀
+**Desenvolvido por Maria Victória Miranda** 💜
 
