@@ -55,9 +55,5 @@ Caso queira contribuir, siga os passos:
 4. Envie para o repositório remoto (`git push origin minha-feature`)
 5. Abra um Pull Request
 
-## Licença
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
-
----
 **Desenvolvido por Maria Victória Miranda** 🚀
 
